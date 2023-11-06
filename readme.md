@@ -3,7 +3,7 @@
 ## Formatowanie tekstu
 Tekst w Markdown można wyróżnić na dwa sposoby pogróbienie i kursywę.
 ### Pogrubienie
- Aby **pogrubić** używamy ****** wyraz ****** (bez spacji).
+ Aby **pogrubić** używamy **\*\*** wyraz **\*\*** (bez spacji).
 ### Kursywa
  _Kursywę_ uzyskujemy poprzez zapis **_** wyraz **_** (bez spacji).
 ## Nagłówki
@@ -23,11 +23,9 @@ Markdown pozwala nam dodawać linki poprzez zapis **[] ()**.
 * drugi element listy
 * trzeci element listy
 ##### Listy zagnieżdżone
-1. Pierwszy element
- * element zagnieżdżony
- * drugi element zagnieżdżony
-2. Drugi element
- 1. element zagnieżdżony
- 2. drugi element zagnieżdżony
+* Pierwszy element listy głównej
+  * a
+  * b 
+* Drugi element listy głównej
 ## Koniec 
 > Podsumowując Markdown jest bardzo prostym i przyjemnym sposobem Tworzenia czytelnych dokumentów.
